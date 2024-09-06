@@ -1,0 +1,6 @@
+Download Image url
+
+curl -o jetpack.jpg https://storage.googleapis.com/generativeai-downloads/images/jetpack.jpg
+
+curl -o piranha.jpg https://storage.googleapis.com/generativeai-downloads/images/piranha.jpg
+curl -o firefighter.jpg https://storage.googleapis.com/generativeai-downloads/images/firefighter.jpg
